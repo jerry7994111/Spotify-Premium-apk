@@ -1,6 +1,7 @@
 # Spotify-Premium-apk
-Free Spotify Premium 
+Free <a href="https://spotiwire.com/spotify-premium-apk/">Spotify Premium apk</a>
 Tested on POCO x3 pro (android 11,12)
+Tested on Samsung s21 (android 13, 14)
 
 <h2>NEW VERSION</h2>
 
